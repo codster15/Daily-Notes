@@ -260,43 +260,131 @@ lec -35  (OOPS) Ashoke sir
 .                                                                        Day 11 (11 dec 2024)
 
 
-
-
- ->  lec -36            (oops
-===================================
-
-1 
-==> write a java method which will give person object with data .
-
-
-2
-==> wreite a java method to return College data (id , name).
-
-
-
-3
-logical program
-
-==>     Raju data ( 101 , Raju , 30)
-        Rani data ( 102 , rani , 32)
-
-        write a java method which will  take id as input .Based on id return person data
+.               c o r e      j a v a
 
 
 
 
+                                                ->  lec -36            (oops
+                                                ===================================
 
-4
-==> logical program
+                                                1 
+                                                ==> write a java method which will give person object with data .
 
-                program => write a java method which will return player data based  n player id
 
-                player Data --> id , name ,age
+                                                2
+                                                ==> wreite a java method to return College data (id , name).
 
-                7--- > dhoni
 
-                18 --> kohali
 
-                45 --> rohit sharma
+                                                3
+                                                logical program
+
+                                                ==>     Raju data ( 101 , Raju , 30)
+                                                        Rani data ( 102 , rani , 32)
+
+                                                        write a java method which will  take id as input .Based on id return person data
+
+
+
+
+
+                                                4
+                                                ==> logical program
+
+                                                                program => write a java method which will return player data based  n player id
+
+                                                                player Data --> id , name ,age
+
+                                                                7--- > dhoni
+
+                                                                18 --> kohali
+
+                                                                45 --> rohit sharma
 
 ================================================================================================================
+
+
+
+
+
+.                         D A T A B A S E
+.                           ----------
+
+
+                                                        lec- 2023-05-31 (Main Class Started From here ) --> (done
+
+                                                        Oracle Started
+                                                        ==============
+
+
+                                                        time -20:00 imp!
+
+
+                                                        --------------------------------------------
+
+                                                        lec - 1-06-2023 
+
+                                                        .       Oracle Software downloaded 
+
+
+
+                        E N D    OF    DAY
+######################################################################################################
+
+
+
+
+
+
+.                                 -->    day 12   (12 - 1 - 2024)
+
+
+
+
+
+.    C O R E   J A V A
+lec - 37
+
+doubt clearification classes
+
+
+  ===>  wrt java method to return university data based id
+    101 --) id - 101 name Oxford
+    102--)  id - 102 name Stanford
+
+'''''''''''''''''''''''''''''''''''''''''
+
+logical program
+==> write two java method inside one class 
+        1- first method should take to two input parameter as object
+        2 -second method sholud return 3 object 
+
+
+
+
+
+
+
+
+================================================================================================================
+
+
+
+
+
+.       DATABASE 
+
+
+
+                                        lec - 2-06-2023 
+
+                                        .       Oracle Software Installation
+
+
+                                        --------------------------------------
+
+                                        lec- 3 - 6 - 2023
+
+
+##############################################################################################################

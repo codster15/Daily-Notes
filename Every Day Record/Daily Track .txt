@@ -400,6 +400,108 @@ logical program
 
 
 
-.    C O R E   J A V A
+.                                                 C O R E   J A V A
 
 lec - 38
+
+
+ topics
+ =======
+
+        constructor
+            types of constructor
+            constructor overloading
+            this keyword
+
+---------------------------------------------------
+
+lec -39 
+
+topics
+=========== 
+
+        access modifier
+            public
+            private
+            protected
+            default
+
+
+============================================================================================
+
+
+
+
+.             D A T A B A S E
+.               ----------
+
+
+                            lec - 6 -6 2023
+
+ .                                 SQL
+                                =========
+                                sql Introduction
+                                   Sub languge of SQL  
+                                        - DDL
+                                        - DML
+                                        - DQL
+                                        - TCL
+                                        - DCL
+
+                                --------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####################################################################################################################
+
+
+
+.                                 -->    day 14   (14 - 1 - 2024)
+
+
+
+.                                                 C O R E   J A V A
+
+
+
+lec -40
+
+
+
+topics
+=========
+Encapsulation 
+getter setter 
+
+----------------------------------------
+
+
+
+
+.                                        D A T A B A S E
+.                                               ----------
+
+
+.                            lec - 7 -6 2023
+                                       
+
+             SQL 
+           =========
+                    datatypes
+                        1 Numeric datatypes
+                        2 Character datatypes / String datatypes  
+
+
+
+
+######################################################################################################################################################

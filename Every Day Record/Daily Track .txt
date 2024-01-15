@@ -538,8 +538,32 @@ lec -41
 
 
 
+.                                        D A T A B A S E
+.                                      -------------------
 
 
+.                            lec - 8 -6 2023
+
+
+
+                  SQL 
+           =========
+                    datatypes
+                    character datatypes
+                        NOn-unicode datatypes
+                            -char
+                            -varchar
+                        Unicode datatypes
+                            -Nchar datatypes
+                            -Nvarchar datatypes
+                    Long datatypes
+
+                    date datatypes        
+
+
+
+
+#############################################################################################################################
 
 
    

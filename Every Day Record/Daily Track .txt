@@ -566,4 +566,56 @@ lec -41
 #############################################################################################################################
 
 
-   
+   .                                 -->    day 16   (16 - 1 - 2024)
+
+
+
+.                                                 C O R E   J A V A
+
+
+
+lec -42
+
+
+
+         Inheritence
+
+         polymorphism 
+                static - compile time polymorphism
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+.                                        D A T A B A S E
+.                                      -------------------
+
+
+.       lec - 9 -6 2023
+
+
+
+    SQL
+    ===
+
+        all datatypes compeleted 
+
+
+     1 DDL (data defination language)
+        Create 
+        Alter
+            -alter modify = to change datatypes and datatype of column
+            -alter add    = to add new column to the table 
+            -alter rename = to change a column name in a table
+            -alter drop   = to drop existing column from the table
+
+
+        rename 
+
+
+############################################################################################################################################

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+
+        var n = 1;
+        var perbet = 100;
+        var money = 0;
+
+        console.log(" Trade start");
+        console.log();
+        console.log();
+
+        while(n < 11){
+
+            money += perbet;
+            console.log("bet - " + n + "  --> " + perbet );
+          
+            
+            console.log();            
+            console.log("------------------------------------------  Total money invested ----------------------" + money );
+            console.log();
+            
+            perbet = perbet * 2; 
+            n++;
+        }
+
+
+    </script>
+</body>
+</html>

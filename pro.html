@@ -31,14 +31,49 @@
         //     n++;
         // }
 
-                        var name="School";
+                //         var name="School";
 
-                for(var i=0;i<=name.length;i++){
-                    console.log(i);
-                console.log(name.charAt(i));
+                // for(var i=0;i<=name.length;i++){
+                //     console.log(i);
+                // console.log(name.charAt(i));
 
-                console.log("---------------------");
-                }
+                // console.log("---------------------");
+                // }
+
+
+                var previousNo  = 0;
+
+
+                    var PayBill = ()=>{
+
+                        var names = ["Anjela" , "Ben" , "Jenny" ,"Michael" , "Chloe"]
+
+                         var RandomNo = 0;                 
+                       
+                      do {
+
+                         RandomNo = Math.floor(Math.random() *5);
+                        
+                    
+                       }while (RandomNo == previousNo);
+
+
+                       previousNo = RandomNo;
+        
+                   
+                       return names[RandomNo] + " is going to buy lunch today!";
+          
+                    }
+
+
+
+
+                //   var Bill =  PayBill();
+                //   console.log(Bill);
+
+                var names = ["Anjela" , "Ben" , "Jenny" ,"Michael" , "Chloe"]
+
+                console.log(names.length);
 
     </script>
 </body>

@@ -41,40 +41,85 @@
                 // }
 
 
-                var previousNo  = 0;
+                // var previousNo  = 0;
 
 
-                    var PayBill = ()=>{
+                //     var PayBill = ()=>{
 
-                        var names = ["Anjela" , "Ben" , "Jenny" ,"Michael" , "Chloe"]
+                //         var names = ["Anjela" , "Ben" , "Jenny" ,"Michael" , "Chloe"]
 
-                         var RandomNo = 0;                 
+                //          var RandomNo = 0;                 
                        
-                      do {
+                //       do {
 
-                         RandomNo = Math.floor(Math.random() *5);
+                //          RandomNo = Math.floor(Math.random() *5);
                         
                     
-                       }while (RandomNo == previousNo);
+                //        }while (RandomNo == previousNo);
 
 
-                       previousNo = RandomNo;
+                //        previousNo = RandomNo;
         
                    
-                       return names[RandomNo] + " is going to buy lunch today!";
+                //        return names[RandomNo] + " is going to buy lunch today!";
           
+                //     }
+
+
+
+
+                // //   var Bill =  PayBill();
+                // //   console.log(Bill);
+
+                // var names = ["Anjela" , "Ben" , "Jenny" ,"Michael" , "Chloe"]
+
+                // console.log(names.length);
+
+
+
+                var count = 5 ;
+
+                    var test=100;
+
+
+                while(count > 0){
+
+                    function time(){
+                        console.log("test - "+ test)
+                        test++;
+                        
                     }
 
+                    setTimeout(time , 1);
+
+                    console.log(count);
+                    count--;
+                    
+                }
 
 
 
-                //   var Bill =  PayBill();
-                //   console.log(Bill);
 
-                var names = ["Anjela" , "Ben" , "Jenny" ,"Michael" , "Chloe"]
 
-                console.log(names.length);
 
+                
+            //     function timeout (){
+            //         console.log("TimeOut")
+            //     }
+
+
+            //    var timetest = setInterval(() => {
+            //     console.log(count);
+            //     count++;
+
+            //     if(count == 10){
+            //         console.log("I am The Last");
+            //         clearInterval(timetest);
+            //     }
+            //    }, 1000);
+
+
+            //    setTimeout(timeout , 2000)
     </script>
 </body>
 </html>
